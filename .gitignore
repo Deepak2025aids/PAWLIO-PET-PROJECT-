@@ -1,0 +1,14 @@
+# Common ignores for local development
+.vscode/
+node_modules/
+*.log
+env/
+.env
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.idea/
+
+# OS files
+desktop.ini
